@@ -1,5 +1,5 @@
 {
-    "alwadifa-club.com": {
+    "http://alwadifa-club.com/" : {
         "offres": "//h2/a/@href",
         "detail": {
             "publication" : "//span[@class='metadata_time']/text()",
