@@ -1,0 +1,10 @@
+{
+    "hibapress": {
+        "slid": "//*//*[@class='ei-slider-large']/li/a/@href",
+        "article": {
+            "titre": "//*[@class='bdaia-post-title']/h1/span/text()",
+            "author": "//*[@id='hibapressarticles']/p/text()",
+            "photo": "//*[@class='bdaia-post-content']/div/a/img/@src"
+        }
+    }
+}
