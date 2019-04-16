@@ -4,7 +4,6 @@
         "detail": {
             "publication" : "//span[@class='metadata_time']/text()",
             "titre" : "//div[@class='box_breadcrumb']/strong/text()",
-            "image" : "//div[@id='article_body']/p/img/@src",
             "body": "//div[@id='article_body']"
         }
     }
